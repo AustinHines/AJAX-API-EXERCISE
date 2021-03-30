@@ -96,3 +96,4 @@ async function pokeFunc() {
         console.log(err);
     }
 }
+pokeFunc()
